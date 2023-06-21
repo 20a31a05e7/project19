@@ -8,10 +8,8 @@
 </br>
 
 
-## **`TEAM MEMBER DETAILS`** 
-**TEAM MEMBER NAME** - [`Shaik Muzzammil Mohiddin Jeelani`]
 
-**TEAM MEMBER GITHUB ACCOUNT** - [`GITHUB URL`](https://GITHUB.COM/20a31a05i8/)
+GITHUB ACCOUNT** - [`GITHUB URL`](https://GITHUB.COM/20a31a05e7/)
 
 
 ## **`Azure technologies`** used For this Project
@@ -20,7 +18,7 @@
 </br>
 
 **Project Link** - [`URL`](https://thankful-water-02651ed10.3.azurestaticapps.net/) </br>
-**Project Demo Video Link** - [`youtube Link`](https://youtu.be/1YoyTWue0nQ)
+**Project Demo Video Link** - [`https://youtu.be/TCvlCv8Ye50)
 
 </br></br>
 
